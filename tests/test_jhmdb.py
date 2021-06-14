@@ -3,8 +3,8 @@ import numpy as np
 
 from datasetloader import JHMDB
 
-from . import DS_PATH
-
+#from . import DS_PATH
+DS_PATH = "../datasets"
 
 class TestJHMDB():
     def test_JHMDB(self):
