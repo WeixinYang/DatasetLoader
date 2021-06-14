@@ -1,6 +1,6 @@
 datasets/
 datasetloader.egg-info/
-
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
